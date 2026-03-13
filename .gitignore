@@ -1,2 +1,3 @@
 *.exe
 Free/
+.vscode/*.json
