@@ -1,0 +1,3 @@
+ali 85
+sara 20
+zain 100

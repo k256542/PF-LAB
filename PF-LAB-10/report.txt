@@ -1,0 +1,6 @@
+Name: ali
+Subject1: 60
+Subject2: 70
+Subject3: 80
+Average: 70.00
+Status: Pass
